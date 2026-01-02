@@ -13,7 +13,7 @@ from datetime import datetime
 import logging
 
 # Konfiguration
-BASE_DIR = Path(r"X:\DEVELOPMENTS\gemini_search")
+BASE_DIR = Path(__file__).resolve().parent
 REQUESTS_DIR = BASE_DIR / "requests"
 RESULTS_DIR = BASE_DIR / "results"
 LOG_FILE = BASE_DIR / "watcher.log"
