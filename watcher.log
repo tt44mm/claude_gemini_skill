@@ -1,0 +1,72 @@
+2026-01-02 08:36:44,255 - INFO - ==================================================
+2026-01-02 08:36:44,256 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 08:36:44,256 - INFO - ==================================================
+2026-01-02 08:36:44,259 - INFO - Requests: X:\DEVELOPMENTS\gemini_search\requests
+2026-01-02 08:36:44,259 - INFO - Results: X:\DEVELOPMENTS\gemini_search\results
+2026-01-02 08:37:10,313 - INFO - 🔍 Starte Suche: PHIDIAS Schulverwaltung Features Funktionen 2025...
+2026-01-02 08:37:27,341 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.json
+2026-01-02 08:38:44,540 - INFO - ==================================================
+2026-01-02 08:38:44,540 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 08:38:44,542 - INFO - ==================================================
+2026-01-02 08:38:44,546 - INFO - Requests: X:\DEVELOPMENTS\gemini_search\requests
+2026-01-02 08:38:44,547 - INFO - Results: X:\DEVELOPMENTS\gemini_search\results
+2026-01-02 08:39:00,601 - INFO - 🔍 Starte Suche: PHIDIAS Schulverwaltung Software Features Funktion...
+2026-01-02 08:39:00,619 - INFO - Command: gemini -p "PHIDIAS Schulverwaltung Software Features Funktionen Module" --output-format text
+2026-01-02 08:39:16,859 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.md
+2026-01-02 08:41:22,383 - INFO - ==================================================
+2026-01-02 08:41:22,383 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 08:41:22,383 - INFO - ==================================================
+2026-01-02 08:41:22,386 - INFO - Requests: X:\DEVELOPMENTS\gemini_search\requests
+2026-01-02 08:41:22,386 - INFO - Results: X:\DEVELOPMENTS\gemini_search\results
+2026-01-02 08:45:12,704 - INFO - ==================================================
+2026-01-02 08:45:12,704 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 08:45:12,705 - INFO - ==================================================
+2026-01-02 08:45:12,707 - INFO - Requests: X:\DEVELOPMENTS\gemini_search\requests
+2026-01-02 08:45:12,708 - INFO - Results: X:\DEVELOPMENTS\gemini_search\results
+2026-01-02 08:45:28,754 - INFO - 🔍 Starte Suche: PHIDIAS Schulverwaltung Software Features Funktion...
+2026-01-02 08:45:28,775 - INFO - Command: gemini -p "PHIDIAS Schulverwaltung Software Features Funktionen Module" --output-format text
+2026-01-02 08:45:45,979 - WARNING - Stderr vorhanden: Loaded cached credentials.
+...
+2026-01-02 08:45:45,979 - INFO - Response Länge: 39 Zeichen
+2026-01-02 08:45:46,032 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.md
+2026-01-02 08:47:05,696 - INFO - ==================================================
+2026-01-02 08:47:05,697 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 08:47:05,697 - INFO - ==================================================
+2026-01-02 08:47:05,699 - INFO - Requests: X:\DEVELOPMENTS\gemini_search\requests
+2026-01-02 08:47:05,700 - INFO - Results: X:\DEVELOPMENTS\gemini_search\results
+2026-01-02 08:47:23,751 - INFO - 🔍 Starte Suche: PHIDIAS Schulverwaltung Software Features Funktion...
+2026-01-02 08:47:23,798 - INFO - Batch: X:\DEVELOPMENTS\gemini_search\requests\temp_gemini.bat
+2026-01-02 08:47:57,403 - INFO - Raw response length: 235
+2026-01-02 08:47:57,410 - INFO - Cleaned response length: 207
+2026-01-02 08:47:57,463 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.md
+2026-01-02 08:49:30,558 - INFO - ==================================================
+2026-01-02 08:49:30,559 - INFO - 🚀 Gemini Search Watcher gestartet (--yolo mode)
+2026-01-02 08:49:30,560 - INFO - ==================================================
+2026-01-02 08:50:28,637 - INFO - 🔍 Starte Suche: PHIDIAS Schulverwaltung Software Features Funktion...
+2026-01-02 08:50:28,663 - INFO - Führe PowerShell Befehl aus...
+2026-01-02 08:50:57,999 - INFO - Raw response length: 2547
+2026-01-02 08:50:58,004 - INFO - Cleaned response length: 2519
+2026-01-02 08:50:58,076 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.md
+2026-01-02 08:55:28,396 - INFO - ==================================================
+2026-01-02 08:55:28,396 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 08:55:28,397 - INFO - 📁 GEMINI.md Kontext: X:\DEVELOPMENTS\gemini_search\GEMINI.md
+2026-01-02 08:55:28,397 - INFO - ==================================================
+2026-01-02 08:55:28,402 - INFO - ✅ GEMINI.md gefunden (866 bytes)
+2026-01-02 08:56:10,461 - INFO - 🔍 Starte Suche: PHIDIAS Schulverwaltung Features verglichen mit Wi...
+2026-01-02 08:56:10,485 - INFO - Arbeitsverzeichnis: X:\DEVELOPMENTS\gemini_search
+2026-01-02 09:00:31,361 - INFO - Raw response length: 2438
+2026-01-02 09:00:31,365 - INFO - Cleaned response length: 1963
+2026-01-02 09:00:31,433 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.md
+2026-01-02 09:02:33,754 - INFO - ==================================================
+2026-01-02 09:02:33,754 - INFO - 🚀 Gemini Search Watcher gestartet
+2026-01-02 09:02:33,755 - INFO - 📁 Working Dir: X:\DEVELOPMENTS\gemini_search
+2026-01-02 09:02:33,755 - INFO - ==================================================
+2026-01-02 09:02:33,757 - INFO - ✅ GEMINI.md gefunden
+2026-01-02 09:03:03,833 - INFO - 🔍 Starte Suche: Schulverwaltungssoftware PHIDIAS vs Winschool Verg...
+2026-01-02 09:03:03,849 - INFO - Command: gemini -p "Schulverwaltungssoftware PHIDIAS vs Winschool Vergleich Funktionen Unterschiede" --output-format text --yolo
+2026-01-02 09:07:26,546 - INFO - Stderr: YOLO mode is enabled. All tool calls will be automatically approved.
+Loaded cached credentials.
+
+2026-01-02 09:07:26,547 - INFO - Raw stdout length: 3228
+2026-01-02 09:07:26,552 - INFO - Cleaned response length: 3227
+2026-01-02 09:07:26,689 - INFO - ✅ Suche abgeschlossen: X:\DEVELOPMENTS\gemini_search\results\gemini_result.md
